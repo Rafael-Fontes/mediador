@@ -45,3 +45,4 @@ Temporary Items
 
 # Arquivos de configuração da aplicação
 node_modules
+*.js
