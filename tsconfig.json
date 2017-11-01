@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": true,
+    "target": "es6",
+    "sourceMap": true,
+    "watch": true,
+    "outDir": "appJs"
+  },
+  "include": [
+    "appTs"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

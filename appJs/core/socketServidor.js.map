@@ -1,0 +1,1 @@
+{"version":3,"file":"socketServidor.js","sourceRoot":"","sources":["../../appTs/core/socketServidor.ts"],"names":[],"mappings":";;AAUA;IAOI,YAAY,SAAgB,EAAE,UAAkB;QAE5C,IAAI,CAAC,KAAK,GAAG,SAAS,CAAC;QACvB,IAAI,CAAC,MAAM,GAAG,UAAU,CAAC;IAC7B,CAAC;CACJ;AAZD,wCAYC"}

@@ -5,14 +5,15 @@
  * Descrição  : Cotem metodos utilizados o tempo todo
  */
 
-class Utilitario
+export class Utilitario
 {
     /**
-         Converte um valor decimal para um valor hexadecimal.
-         @param number valor
-         @return string
+     * Converte um valor decimal para um valor hexadecimal.
+     *
+     * @param {int} decimal
+     * @return string
      */
-    decParaHex(decimal: number):string
+    static decParaHex(decimal: number):string
     {
         if(decimal)
         {
