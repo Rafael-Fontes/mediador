@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/Rafael-Fontes/mediador#readme",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "winston": "^3.0.0-rc1"
   },
   "devDependencies": {
     "@types/mocha": "^2.2.44",
